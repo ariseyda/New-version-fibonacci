@@ -1,0 +1,2 @@
+# New-version-fibonacci
+Write fibonacci function that receives an integer n and returns n-th term of the Fibonacci sequence. 1st term of Fibonacci sequence is 0, 2nd term of Fibonacci sequence is 1, and n-th term of Fibonacci sequence is sum of (n-1)th and (n-2)th terms of the Fibonacci sequence. Use the function in a program that asks user to enter number of terms and displays first that many terms of the Fibonacci sequence.
